@@ -1,2 +1,2 @@
 # World-Programming
-World Programming language projects
+World Programming Language Projects
